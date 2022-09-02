@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "car"
+version = "0.1.0"
+description = ""
+authors = ["selva kumar <selvakumar1995sri@gmail.com>"]
+license = "Apache-2"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "poet car"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
